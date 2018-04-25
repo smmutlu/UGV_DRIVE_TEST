@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\Sean\Documents\UGV_PROJECTS\DriveTestFinal\DriveTestFinal.sdk\ZYNQ_FSBL\Debug\ZYNQ_FSBL.elf
+	C:\Users\Sean\Documents\UGV_PROJECTS\DriveTestFinal\DriveTestFinal.sdk\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	C:\Users\Sean\Documents\UGV_PROJECTS\DriveTestFinal\DriveTestFinal.sdk\UGV_DRIVE\Debug\UGV_DRIVE.elf
+}
